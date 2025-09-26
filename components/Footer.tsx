@@ -1,7 +1,5 @@
 "use client";
 
-// later add link
-// import { TOGETHER_AI_LINK } from "@/lib/constant";
 
 export default function Footer() {
   return (
